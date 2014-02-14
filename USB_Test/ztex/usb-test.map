@@ -1,0 +1,1636 @@
+ASxxxx Linker V03.00 + NoICE + sdld,  page 1.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CABS                                00000000    00000000 =           0. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000000  l_ABSCODE                       
+C:   00000000  l_CABS                          
+C:   00000000  l_GSINIT                        
+C:   00000000  l_GSINIT1                       
+C:   00000000  l_GSINIT5                       
+C:   00000000  l_IABS                          
+C:   00000000  l_ISEG                          
+C:   00000000  l_PSEG                          
+C:   00000000  l_REG_BANK_1                    
+C:   00000000  l_REG_BANK_2                    
+C:   00000000  l_REG_BANK_3                    
+C:   00000000  l_RSEG                          
+C:   00000000  l_RSEG0                         
+C:   00000000  l_RSEG1                         
+C:   00000000  l_XABS                          
+C:   00000000  l__CODE                         
+C:   00000000  s_ABSCODE                       
+C:   00000000  s_ABSCODE10                     
+C:   00000000  s_ABSCODE11                     
+C:   00000000  s_ABSCODE12                     
+C:   00000000  s_ABSCODE13                     
+C:   00000000  s_ABSCODE14                     
+C:   00000000  s_ABSCODE15                     
+C:   00000000  s_ABSCODE16                     
+C:   00000000  s_ABSCODE17                     
+C:   00000000  s_ABSCODE18                     
+C:   00000000  s_ABSCODE19                     
+C:   00000000  s_ABSCODE1a                     
+C:   00000000  s_ABSCODE1b                     
+C:   00000000  s_ABSCODE1c                     
+C:   00000000  s_ABSCODE1d                     
+C:   00000000  s_ABSCODE1e                     
+C:   00000000  s_ABSCODE1f                     
+C:   00000000  s_ABSCODE2                      
+C:   00000000  s_ABSCODE20                     
+C:   00000000  s_ABSCODE21                     
+C:   00000000  s_ABSCODE22                     
+C:   00000000  s_ABSCODE23                     
+C:   00000000  s_ABSCODE24                     
+C:   00000000  s_ABSCODE25                     
+C:   00000000  s_ABSCODE26                     
+C:   00000000  s_ABSCODE27                     
+C:   00000000  s_ABSCODE28                     
+C:   00000000  s_ABSCODE29                     
+C:   00000000  s_ABSCODE2a                     
+C:   00000000  s_ABSCODE2b                     
+C:   00000000  s_ABSCODE2c                     
+C:   00000000  s_ABSCODE2d                     
+C:   00000000  s_ABSCODE2e                     
+C:   00000000  s_ABSCODE2f                     
+ASxxxx Linker V03.00 + NoICE + sdld,  page 2.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CABS                                00000000    00000000 =           0. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000000  s_ABSCODE3                      
+C:   00000000  s_ABSCODE30                     
+C:   00000000  s_ABSCODE31                     
+C:   00000000  s_ABSCODE32                     
+C:   00000000  s_ABSCODE33                     
+C:   00000000  s_ABSCODE34                     
+C:   00000000  s_ABSCODE35                     
+C:   00000000  s_ABSCODE36                     
+C:   00000000  s_ABSCODE37                     
+C:   00000000  s_ABSCODE38                     
+C:   00000000  s_ABSCODE39                     
+C:   00000000  s_ABSCODE3a                     
+C:   00000000  s_ABSCODE3b                     
+C:   00000000  s_ABSCODE3c                     
+C:   00000000  s_ABSCODE3d                     
+C:   00000000  s_ABSCODE3e                     
+C:   00000000  s_ABSCODE3f                     
+C:   00000000  s_ABSCODE4                      
+C:   00000000  s_ABSCODE40                     
+C:   00000000  s_ABSCODE41                     
+C:   00000000  s_ABSCODE5                      
+C:   00000000  s_ABSCODE6                      
+C:   00000000  s_ABSCODE7                      
+C:   00000000  s_ABSCODE8                      
+C:   00000000  s_ABSCODE9                      
+C:   00000000  s_ABSCODEa                      
+C:   00000000  s_ABSCODEb                      
+C:   00000000  s_ABSCODEc                      
+C:   00000000  s_ABSCODEd                      
+C:   00000000  s_ABSCODEe                      
+C:   00000000  s_ABSCODEf                      
+C:   00000000  s_BSEG                          
+C:   00000000  s_CABS                          
+C:   00000000  s_DSEG                          
+C:   00000000  s_IABS                          
+C:   00000000  s_ISEG                          
+C:   00000000  s_REG_BANK_0                    
+C:   00000000  s_RSEG                          
+C:   00000000  s_RSEG0                         
+C:   00000000  s_RSEG1                         
+C:   00000000  s_XABS                          
+C:   00000001  l_ABSCODE10                     
+C:   00000001  l_ABSCODE11                     
+C:   00000001  l_ABSCODE12                     
+C:   00000001  l_ABSCODE13                     
+C:   00000001  l_ABSCODE14                     
+C:   00000001  l_ABSCODE15                     
+C:   00000001  l_ABSCODE16                     
+C:   00000001  l_ABSCODE17                     
+C:   00000001  l_ABSCODE18                     
+C:   00000001  l_ABSCODE19                     
+ASxxxx Linker V03.00 + NoICE + sdld,  page 3.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CABS                                00000000    00000000 =           0. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000001  l_ABSCODE1a                     
+C:   00000001  l_ABSCODE1b                     
+C:   00000001  l_ABSCODE1c                     
+C:   00000001  l_ABSCODE1d                     
+C:   00000001  l_ABSCODE1e                     
+C:   00000001  l_ABSCODE1f                     
+C:   00000001  l_ABSCODE20                     
+C:   00000001  l_ABSCODE21                     
+C:   00000001  l_ABSCODE22                     
+C:   00000001  l_ABSCODE23                     
+C:   00000001  l_ABSCODE24                     
+C:   00000001  l_ABSCODE25                     
+C:   00000001  l_ABSCODE26                     
+C:   00000001  l_ABSCODE27                     
+C:   00000001  l_ABSCODE28                     
+C:   00000001  l_ABSCODE29                     
+C:   00000001  l_ABSCODE2a                     
+C:   00000001  l_ABSCODE2b                     
+C:   00000001  l_ABSCODE2c                     
+C:   00000001  l_ABSCODE2d                     
+C:   00000001  l_ABSCODE2e                     
+C:   00000001  l_ABSCODE2f                     
+C:   00000001  l_ABSCODE3                      
+C:   00000001  l_ABSCODE30                     
+C:   00000001  l_ABSCODE31                     
+C:   00000001  l_ABSCODE32                     
+C:   00000001  l_ABSCODE33                     
+C:   00000001  l_ABSCODE34                     
+C:   00000001  l_ABSCODE35                     
+C:   00000001  l_ABSCODE36                     
+C:   00000001  l_ABSCODE37                     
+C:   00000001  l_ABSCODE38                     
+C:   00000001  l_ABSCODE39                     
+C:   00000001  l_ABSCODE3a                     
+C:   00000001  l_ABSCODE3d                     
+C:   00000001  l_ABSCODE3e                     
+C:   00000001  l_ABSCODE4                      
+C:   00000001  l_ABSCODE5                      
+C:   00000001  l_ABSCODE6                      
+C:   00000001  l_ABSCODE7                      
+C:   00000001  l_ABSCODE8                      
+C:   00000001  l_ABSCODE9                      
+C:   00000001  l_ABSCODEa                      
+C:   00000001  l_ABSCODEb                      
+C:   00000001  l_ABSCODEc                      
+C:   00000001  l_ABSCODEd                      
+C:   00000001  l_ABSCODEe                      
+C:   00000001  l_ABSCODEf                      
+C:   00000001  l_BIT_BANK                      
+C:   00000001  l_BSEG_BYTES                    
+C:   00000002  l_BSEG                          
+ASxxxx Linker V03.00 + NoICE + sdld,  page 4.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CABS                                00000000    00000000 =           0. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000002  l_OSEG                          
+C:   00000003  l_ABSCODE2                      
+C:   00000003  l_GSFINAL                       
+C:   00000003  l_GSINIT0                       
+C:   00000004  l_ABSCODE3b                     
+C:   00000004  l_ABSCODE3c                     
+C:   00000006  l_ABSCODE3f                     
+C:   00000006  l_HOME                          
+C:   00000008  l_REG_BANK_0                    
+C:   00000008  s_REG_BANK_1                    
+C:   0000000A  l_ABSCODE41                     
+C:   0000000A  l_GSINIT2                       
+C:   0000000C  l_ABSCODE40                     
+C:   0000000F  l_XINIT                         
+C:   0000000F  l_XISEG                         
+C:   00000010  s_REG_BANK_2                    
+C:   00000011  s_OSEG                          
+C:   00000018  s_REG_BANK_3                    
+C:   00000020  s_BSEG_BYTES                    
+C:   00000020  s__CODE                         
+C:   00000021  s_BIT_BANK                      
+C:   00000022  l_GSINIT3                       
+C:   00000022  s_SSEG                          
+C:   0000002A  l_GSINIT4                       
+C:   0000006A  l_XSEG                          
+C:   00000073  l_DSEG                          
+C:   0000008C  l_CONST                         
+C:   000000DE  l_SSEG                          
+C:   00000100  l_IRAM                          
+C:   00000200  s_HOME                          
+C:   00000206  s_GSINIT0                       
+C:   00000209  s_GSINIT1                       
+C:   00000209  s_GSINIT2                       
+C:   00000213  s_GSINIT3                       
+C:   00000235  s_GSINIT4                       
+C:   0000025F  s_GSFINAL                       
+C:   0000025F  s_GSINIT                        
+C:   0000025F  s_GSINIT5                       
+C:   00000262  s_CSEG                          
+C:   000021AC  l_CSEG                          
+C:   0000240E  s_CONST                         
+C:   0000249A  s_XINIT                         
+C:   00003A00  s_PSEG                          
+C:   00003A00  s_XSEG                          
+C:   00003A6A  s_XISEG                         
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 5.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE41                           00000000    0000000A =          10. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 6.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE40                           00000000    0000000C =          12. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 7.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3f                           00000000    00000006 =           6. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 8.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3e                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 9.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3d                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 10.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3c                           00000000    00000004 =           4. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 11.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3b                           00000000    00000004 =           4. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 12.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3a                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 13.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE39                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 14.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE38                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 15.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE37                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 16.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE36                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 17.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE35                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 18.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE34                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 19.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE33                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 20.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE32                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 21.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE31                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 22.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE30                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 23.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2f                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 24.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2e                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 25.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2d                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 26.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2c                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 27.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2b                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 28.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2a                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 29.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE29                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 30.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE28                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 31.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE27                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 32.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE26                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 33.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE25                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 34.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE24                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 35.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE23                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 36.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE22                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 37.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE21                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 38.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE20                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 39.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE1f                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 40.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE1e                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 41.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE1d                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 42.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE1c                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 43.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE1b                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 44.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE1a                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 45.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE19                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 46.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE18                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 47.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE17                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 48.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE16                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 49.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE15                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 50.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE14                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 51.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE13                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 52.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE12                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 53.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE11                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 54.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE10                           00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 55.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODEf                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 56.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODEe                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 57.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODEd                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 58.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODEc                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 59.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODEb                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 60.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODEa                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 61.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE9                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 62.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE8                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 63.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE7                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 64.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE6                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 65.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE5                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 66.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE4                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 67.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE3                            00000000    00000001 =           1. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 68.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+ABSCODE2                            00000000    00000003 =           3. bytes (ABS,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 69.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     00000000  .__.ABS.                           _startup
+     00000003  _INT0VEC_IE0                       usb_test_tmp
+     0000000B  _INT1VEC_T0                        usb_test_tmp
+     00000013  _INT2VEC_IE1                       usb_test_tmp
+     0000001B  _INT3VEC_T1                        usb_test_tmp
+     00000023  _INT4VEC_USART0                    usb_test_tmp
+     0000002B  _INT5VEC_T2                        usb_test_tmp
+     00000033  _INT6VEC_RESUME                    usb_test_tmp
+     0000003B  _INT7VEC_USART1                    usb_test_tmp
+     00000043  _INT8VEC_USB                       usb_test_tmp
+     0000004B  _INT9VEC_I2C                       usb_test_tmp
+     00000053  _INT10VEC_GPIF                     usb_test_tmp
+     0000005B  _INT11VEC_IE5                      usb_test_tmp
+     00000063  _INT12VEC_IE6                      usb_test_tmp
+     0000006C  _ZTEX_DESCRIPTOR                   usb_test_tmp
+     0000006D  _ZTEX_DESCRIPTOR_VERSION           usb_test_tmp
+     0000006E  _ZTEXID                            usb_test_tmp
+     00000072  _PRODUCT_ID                        usb_test_tmp
+     00000076  _FW_VERSION                        usb_test_tmp
+     00000077  _INTERFACE_VERSION                 usb_test_tmp
+     00000078  _INTERFACE_CAPABILITIES            usb_test_tmp
+     0000007E  _MODULE_RESERVED                   usb_test_tmp
+     00000080  _IOA                               usb_test_tmp
+     00000080  _IOA0                              usb_test_tmp
+     00000081  _IOA1                              usb_test_tmp
+     00000081  _SP                                usb_test_tmp
+     00000082  _DPL0                              usb_test_tmp
+     00000082  _IOA2                              usb_test_tmp
+     00000083  _DPH0                              usb_test_tmp
+     00000083  _IOA3                              usb_test_tmp
+     00000084  _DPL1                              usb_test_tmp
+     00000084  _IOA4                              usb_test_tmp
+     00000085  _DPH1                              usb_test_tmp
+     00000085  _IOA5                              usb_test_tmp
+     00000086  _DPS                               usb_test_tmp
+     00000086  _IOA6                              usb_test_tmp
+     00000087  _IOA7                              usb_test_tmp
+     00000087  _PCON                              usb_test_tmp
+     00000088  _IT0                               usb_test_tmp
+     00000088  _TCON                              usb_test_tmp
+     00000089  _IE0                               usb_test_tmp
+     00000089  _TMOD                              usb_test_tmp
+     0000008A  _IT1                               usb_test_tmp
+     0000008A  _SN_STRING                         usb_test_tmp
+     0000008A  _TL0                               usb_test_tmp
+     0000008B  _IE1                               usb_test_tmp
+     0000008B  _TL1                               usb_test_tmp
+     0000008C  _TH0                               usb_test_tmp
+     0000008C  _TR0                               usb_test_tmp
+     0000008D  _TF0                               usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 70.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     0000008D  _TH1                               usb_test_tmp
+     0000008E  _CKCON                             usb_test_tmp
+     0000008E  _TR1                               usb_test_tmp
+     0000008F  _TF1                               usb_test_tmp
+     00000090  _IOB                               usb_test_tmp
+     00000090  _IOB0                              usb_test_tmp
+     00000091  _EXIF                              usb_test_tmp
+     00000091  _IOB1                              usb_test_tmp
+     00000092  _IOB2                              usb_test_tmp
+     00000092  _MPAGE                             usb_test_tmp
+     00000092  __XPAGE                            usb_test_tmp
+     00000093  _IOB3                              usb_test_tmp
+     00000094  _IOB4                              usb_test_tmp
+     00000095  _IOB5                              usb_test_tmp
+     00000096  _IOB6                              usb_test_tmp
+     00000097  _IOB7                              usb_test_tmp
+     00000098  _RI_0                              usb_test_tmp
+     00000098  _SCON0                             usb_test_tmp
+     00000099  _SBUF0                             usb_test_tmp
+     00000099  _TI_0                              usb_test_tmp
+     0000009A  _AUTOPTRH1                         usb_test_tmp
+     0000009A  _RB8_0                             usb_test_tmp
+     0000009B  _AUTOPTRL1                         usb_test_tmp
+     0000009B  _TB8_0                             usb_test_tmp
+     0000009C  _REN_0                             usb_test_tmp
+     0000009D  _AUTOPTRH2                         usb_test_tmp
+     0000009D  _SM2_0                             usb_test_tmp
+     0000009E  _AUTOPTRL2                         usb_test_tmp
+     0000009E  _SM1_0                             usb_test_tmp
+     0000009F  _SM0_0                             usb_test_tmp
+     000000A0  _IOC                               usb_test_tmp
+     000000A0  _IOC0                              usb_test_tmp
+     000000A1  _INT2CLR                           usb_test_tmp
+     000000A1  _IOC1                              usb_test_tmp
+     000000A2  _INT4CLR                           usb_test_tmp
+     000000A2  _IOC2                              usb_test_tmp
+     000000A3  _IOC3                              usb_test_tmp
+     000000A4  _IOC4                              usb_test_tmp
+     000000A5  _IOC5                              usb_test_tmp
+     000000A6  _IOC6                              usb_test_tmp
+     000000A7  _IOC7                              usb_test_tmp
+     000000A8  _EX0                               usb_test_tmp
+     000000A8  _IE                                usb_test_tmp
+     000000A9  _ET0                               usb_test_tmp
+     000000AA  _EP2468STAT                        usb_test_tmp
+     000000AA  _EX1                               usb_test_tmp
+     000000AB  _EP24FIFOFLGS                      usb_test_tmp
+     000000AB  _ET1                               usb_test_tmp
+     000000AC  _EP68FIFOFLGS                      usb_test_tmp
+     000000AC  _ES0                               usb_test_tmp
+     000000AD  _ET2                               usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 71.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     000000AE  _ES1                               usb_test_tmp
+     000000AF  _AUTOPTRSETUP                      usb_test_tmp
+     000000AF  _EA                                usb_test_tmp
+     000000B0  _IOD                               usb_test_tmp
+     000000B0  _IOD0                              usb_test_tmp
+     000000B1  _IOD1                              usb_test_tmp
+     000000B1  _IOE                               usb_test_tmp
+     000000B2  _IOD2                              usb_test_tmp
+     000000B2  _OEA                               usb_test_tmp
+     000000B3  _IOD3                              usb_test_tmp
+     000000B3  _OEB                               usb_test_tmp
+     000000B4  _IOD4                              usb_test_tmp
+     000000B4  _OEC                               usb_test_tmp
+     000000B5  _IOD5                              usb_test_tmp
+     000000B5  _OED                               usb_test_tmp
+     000000B6  _IOD6                              usb_test_tmp
+     000000B6  _OEE                               usb_test_tmp
+     000000B7  _IOD7                              usb_test_tmp
+     000000B8  _IP                                usb_test_tmp
+     000000B8  _PX0                               usb_test_tmp
+     000000B9  _PT0                               usb_test_tmp
+     000000BA  _EP01STAT                          usb_test_tmp
+     000000BA  _PX1                               usb_test_tmp
+     000000BB  _GPIFTRIG                          usb_test_tmp
+     000000BB  _PT1                               usb_test_tmp
+     000000BC  _PS0                               usb_test_tmp
+     000000BD  _GPIFSGLDATH                       usb_test_tmp
+     000000BD  _PT2                               usb_test_tmp
+     000000BE  _GPIFSGLDATLX                      usb_test_tmp
+     000000BE  _PS1                               usb_test_tmp
+     000000BF  _GPIFSGLDATLNOX                    usb_test_tmp
+     000000C0  _RI_1                              usb_test_tmp
+     000000C0  _SCON1                             usb_test_tmp
+     000000C1  _SBUF1                             usb_test_tmp
+     000000C1  _TI_1                              usb_test_tmp
+     000000C2  _RB8_1                             usb_test_tmp
+     000000C3  _TB8_1                             usb_test_tmp
+     000000C4  _REN_1                             usb_test_tmp
+     000000C5  _SM2_1                             usb_test_tmp
+     000000C6  _SM1_1                             usb_test_tmp
+     000000C7  _SM0_1                             usb_test_tmp
+     000000C8  _CPRL2                             usb_test_tmp
+     000000C8  _T2CON                             usb_test_tmp
+     000000C9  _CT2                               usb_test_tmp
+     000000CA  _RCAP2L                            usb_test_tmp
+     000000CA  _TR2                               usb_test_tmp
+     000000CB  _EXEN2                             usb_test_tmp
+     000000CB  _RCAP2H                            usb_test_tmp
+     000000CC  _TCLK                              usb_test_tmp
+     000000CC  _TL2                               usb_test_tmp
+     000000CD  _RCLK                              usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 72.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     000000CD  _TH2                               usb_test_tmp
+     000000CE  _EXF2                              usb_test_tmp
+     000000CF  _TF2                               usb_test_tmp
+     000000D0  _PF                                usb_test_tmp
+     000000D0  _PSW                               usb_test_tmp
+     000000D1  _F1                                usb_test_tmp
+     000000D2  _OV                                usb_test_tmp
+     000000D3  _RS0                               usb_test_tmp
+     000000D4  _RS1                               usb_test_tmp
+     000000D5  _F0                                usb_test_tmp
+     000000D6  _AC                                usb_test_tmp
+     000000D7  _CY                                usb_test_tmp
+     000000D8  _EICON                             usb_test_tmp
+     000000DB  _INT6                              usb_test_tmp
+     000000DC  _RESI                              usb_test_tmp
+     000000DD  _ERESI                             usb_test_tmp
+     000000DF  _SMOD1                             usb_test_tmp
+     000000E0  _ACC                               usb_test_tmp
+     000000E0  _ACC0                              usb_test_tmp
+     000000E1  _ACC1                              usb_test_tmp
+     000000E2  _ACC2                              usb_test_tmp
+     000000E3  _ACC3                              usb_test_tmp
+     000000E4  _ACC4                              usb_test_tmp
+     000000E5  _ACC5                              usb_test_tmp
+     000000E6  _ACC6                              usb_test_tmp
+     000000E7  _ACC7                              usb_test_tmp
+     000000E8  _EIE                               usb_test_tmp
+     000000E8  _EUSB                              usb_test_tmp
+     000000E9  _EI2C                              usb_test_tmp
+     000000EA  _EIEX4                             usb_test_tmp
+     000000EB  _EIEX5                             usb_test_tmp
+     000000EC  _EIEX6                             usb_test_tmp
+     000000F0  _BREG                              usb_test_tmp
+     000000F0  _BREG0                             usb_test_tmp
+     000000F1  _BREG1                             usb_test_tmp
+     000000F2  _BREG2                             usb_test_tmp
+     000000F3  _BREG3                             usb_test_tmp
+     000000F4  _BREG4                             usb_test_tmp
+     000000F5  _BREG5                             usb_test_tmp
+     000000F6  _BREG6                             usb_test_tmp
+     000000F7  _BREG7                             usb_test_tmp
+     000000F8  _EIP                               usb_test_tmp
+     000000F8  _PUSB                              usb_test_tmp
+     000000F9  _PI2C                              usb_test_tmp
+     000000FA  _EIPX4                             usb_test_tmp
+     000000FB  _EIPX5                             usb_test_tmp
+     000000FC  _EIPX6                             usb_test_tmp
+     00000100  _INTVEC_SUDAV                      usb_test_tmp
+     00000104  _INTVEC_SOF                        usb_test_tmp
+     00000108  _INTVEC_SUTOK                      usb_test_tmp
+     0000010C  _INTVEC_SUSPEND                    usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 73.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     00000110  _INTVEC_USBRESET                   usb_test_tmp
+     00000114  _INTVEC_HISPEED                    usb_test_tmp
+     00000118  _INTVEC_EP0ACK                     usb_test_tmp
+     00000120  _INTVEC_EP0IN                      usb_test_tmp
+     00000124  _INTVEC_EP0OUT                     usb_test_tmp
+     00000128  _INTVEC_EP1IN                      usb_test_tmp
+     0000012C  _INTVEC_EP1OUT                     usb_test_tmp
+     00000130  _INTVEC_EP2                        usb_test_tmp
+     00000134  _INTVEC_EP4                        usb_test_tmp
+     00000138  _INTVEC_EP6                        usb_test_tmp
+     0000013C  _INTVEC_EP8                        usb_test_tmp
+     00000140  _INTVEC_IBN                        usb_test_tmp
+     00000148  _INTVEC_EP0PING                    usb_test_tmp
+     0000014C  _INTVEC_EP1PING                    usb_test_tmp
+     00000150  _INTVEC_EP2PING                    usb_test_tmp
+     00000154  _INTVEC_EP4PING                    usb_test_tmp
+     00000158  _INTVEC_EP6PING                    usb_test_tmp
+     0000015C  _INTVEC_EP8PING                    usb_test_tmp
+     00000160  _INTVEC_ERRLIMIT                   usb_test_tmp
+     00000170  _INTVEC_EP2ISOERR                  usb_test_tmp
+     00000174  _INTVEC_EP4ISOERR                  usb_test_tmp
+     00000178  _INTVEC_EP6ISOERR                  usb_test_tmp
+     0000017C  _INTVEC_EP8ISOERR                  usb_test_tmp
+     00000180  _INTVEC_EP2PF                      usb_test_tmp
+     00000184  _INTVEC_EP4PF                      usb_test_tmp
+     00000188  _INTVEC_EP6PF                      usb_test_tmp
+     0000018C  _INTVEC_EP8PF                      usb_test_tmp
+     00000190  _INTVEC_EP2EF                      usb_test_tmp
+     00000194  _INTVEC_EP4EF                      usb_test_tmp
+     00000198  _INTVEC_EP6EF                      usb_test_tmp
+     0000019C  _INTVEC_EP8EF                      usb_test_tmp
+     000001A0  _INTVEC_EP2FF                      usb_test_tmp
+     000001A8  _INTVEC_EP6FF                      usb_test_tmp
+     000001AC  _INTVEC_EP8FF                      usb_test_tmp
+     000001B0  _INTVEC_GPIFDONE                   usb_test_tmp
+     000001B4  _INTVEC_GPIFWF                     usb_test_tmp
+     0000E400  _GPIF_WAVE0_DATA                   usb_test_tmp
+     0000E400  _GPIF_WAVE_DATA                    usb_test_tmp
+     0000E420  _GPIF_WAVE1_DATA                   usb_test_tmp
+     0000E440  _GPIF_WAVE2_DATA                   usb_test_tmp
+     0000E460  _GPIF_WAVE3_DATA                   usb_test_tmp
+     0000E50D  _GPCR2                             usb_test_tmp
+     0000E600  _CPUCS                             usb_test_tmp
+     0000E601  _IFCONFIG                          usb_test_tmp
+     0000E602  _PINFLAGSAB                        usb_test_tmp
+     0000E603  _PINFLAGSCD                        usb_test_tmp
+     0000E604  _FIFORESET                         usb_test_tmp
+     0000E605  _BREAKPT                           usb_test_tmp
+     0000E606  _BPADDRH                           usb_test_tmp
+     0000E607  _BPADDRL                           usb_test_tmp
+     0000E608  _UART230                           usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 74.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     0000E609  _FIFOPINPOLAR                      usb_test_tmp
+     0000E60A  _REVID                             usb_test_tmp
+     0000E60B  _REVCTL                            usb_test_tmp
+     0000E60C  _GPIFHOLDAMOUNT                    usb_test_tmp
+     0000E610  _EP1OUTCFG                         usb_test_tmp
+     0000E611  _EP1INCFG                          usb_test_tmp
+     0000E612  _EP2CFG                            usb_test_tmp
+     0000E613  _EP4CFG                            usb_test_tmp
+     0000E614  _EP6CFG                            usb_test_tmp
+     0000E615  _EP8CFG                            usb_test_tmp
+     0000E618  _EP2FIFOCFG                        usb_test_tmp
+     0000E619  _EP4FIFOCFG                        usb_test_tmp
+     0000E61A  _EP6FIFOCFG                        usb_test_tmp
+     0000E61B  _EP8FIFOCFG                        usb_test_tmp
+     0000E620  _EP2AUTOINLENH                     usb_test_tmp
+     0000E621  _EP2AUTOINLENL                     usb_test_tmp
+     0000E622  _EP4AUTOINLENH                     usb_test_tmp
+     0000E623  _EP4AUTOINLENL                     usb_test_tmp
+     0000E624  _EP6AUTOINLENH                     usb_test_tmp
+     0000E625  _EP6AUTOINLENL                     usb_test_tmp
+     0000E626  _EP8AUTOINLENH                     usb_test_tmp
+     0000E627  _EP8AUTOINLENL                     usb_test_tmp
+     0000E628  _ECCCFG                            usb_test_tmp
+     0000E629  _ECCRESET                          usb_test_tmp
+     0000E62A  _ECC1B0                            usb_test_tmp
+     0000E62B  _ECC1B1                            usb_test_tmp
+     0000E62C  _ECC1B2                            usb_test_tmp
+     0000E62D  _ECC2B0                            usb_test_tmp
+     0000E62E  _ECC2B1                            usb_test_tmp
+     0000E62F  _ECC2B2                            usb_test_tmp
+     0000E630  _EP2FIFOPFH                        usb_test_tmp
+     0000E631  _EP2FIFOPFL                        usb_test_tmp
+     0000E632  _EP4FIFOPFH                        usb_test_tmp
+     0000E633  _EP4FIFOPFL                        usb_test_tmp
+     0000E634  _EP6FIFOPFH                        usb_test_tmp
+     0000E635  _EP6FIFOPFL                        usb_test_tmp
+     0000E636  _EP8FIFOPFH                        usb_test_tmp
+     0000E637  _EP8FIFOPFL                        usb_test_tmp
+     0000E640  _EP2ISOINPKTS                      usb_test_tmp
+     0000E641  _EP4ISOINPKTS                      usb_test_tmp
+     0000E642  _EP6ISOINPKTS                      usb_test_tmp
+     0000E643  _EP8ISOINPKTS                      usb_test_tmp
+     0000E648  _INPKTEND                          usb_test_tmp
+     0000E649  _OUTPKTEND                         usb_test_tmp
+     0000E650  _EP2FIFOIE                         usb_test_tmp
+     0000E651  _EP2FIFOIRQ                        usb_test_tmp
+     0000E652  _EP4FIFOIE                         usb_test_tmp
+     0000E653  _EP4FIFOIRQ                        usb_test_tmp
+     0000E654  _EP6FIFOIE                         usb_test_tmp
+     0000E655  _EP6FIFOIRQ                        usb_test_tmp
+     0000E656  _EP8FIFOIE                         usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 75.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     0000E657  _EP8FIFOIRQ                        usb_test_tmp
+     0000E658  _IBNIE                             usb_test_tmp
+     0000E659  _IBNIRQ                            usb_test_tmp
+     0000E65A  _NAKIE                             usb_test_tmp
+     0000E65B  _NAKIRQ                            usb_test_tmp
+     0000E65C  _USBIE                             usb_test_tmp
+     0000E65D  _USBIRQ                            usb_test_tmp
+     0000E65E  _EPIE                              usb_test_tmp
+     0000E65F  _EPIRQ                             usb_test_tmp
+     0000E660  _GPIFIE                            usb_test_tmp
+     0000E661  _GPIFIRQ                           usb_test_tmp
+     0000E662  _USBERRIE                          usb_test_tmp
+     0000E663  _USBERRIRQ                         usb_test_tmp
+     0000E664  _ERRCNTLIM                         usb_test_tmp
+     0000E665  _CLRERRCNT                         usb_test_tmp
+     0000E666  _INT2IVEC                          usb_test_tmp
+     0000E667  _INT4IVEC                          usb_test_tmp
+     0000E668  _INTSETUP                          usb_test_tmp
+     0000E670  _PORTACFG                          usb_test_tmp
+     0000E671  _PORTCCFG                          usb_test_tmp
+     0000E672  _PORTECFG                          usb_test_tmp
+     0000E678  _I2CS                              usb_test_tmp
+     0000E679  _I2DAT                             usb_test_tmp
+     0000E67A  _I2CTL                             usb_test_tmp
+     0000E67B  _EXTAUTODAT1                       usb_test_tmp
+     0000E67B  _XAUTODAT1                         usb_test_tmp
+     0000E67C  _EXTAUTODAT2                       usb_test_tmp
+     0000E67C  _XAUTODAT2                         usb_test_tmp
+     0000E67D  _UDMACRCH                          usb_test_tmp
+     0000E67E  _UDMACRCL                          usb_test_tmp
+     0000E67F  _UDMACRCQUALIFIER                  usb_test_tmp
+     0000E680  _USBCS                             usb_test_tmp
+     0000E681  _SUSPEND                           usb_test_tmp
+     0000E682  _WAKEUPCS                          usb_test_tmp
+     0000E683  _TOGCTL                            usb_test_tmp
+     0000E684  _USBFRAMEH                         usb_test_tmp
+     0000E685  _USBFRAMEL                         usb_test_tmp
+     0000E686  _MICROFRAME                        usb_test_tmp
+     0000E687  _FNADDR                            usb_test_tmp
+     0000E68A  _EP0BCH                            usb_test_tmp
+     0000E68B  _EP0BCL                            usb_test_tmp
+     0000E68D  _EP1OUTBC                          usb_test_tmp
+     0000E68F  _EP1INBC                           usb_test_tmp
+     0000E690  _EP2BCH                            usb_test_tmp
+     0000E691  _EP2BCL                            usb_test_tmp
+     0000E694  _EP4BCH                            usb_test_tmp
+     0000E695  _EP4BCL                            usb_test_tmp
+     0000E698  _EP6BCH                            usb_test_tmp
+     0000E699  _EP6BCL                            usb_test_tmp
+     0000E69C  _EP8BCH                            usb_test_tmp
+     0000E69D  _EP8BCL                            usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 76.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     0000E6A0  _EP0CS                             usb_test_tmp
+     0000E6A1  _EP1OUTCS                          usb_test_tmp
+     0000E6A2  _EP1INCS                           usb_test_tmp
+     0000E6A3  _EP2CS                             usb_test_tmp
+     0000E6A3  _EPXCS                             usb_test_tmp
+     0000E6A4  _EP4CS                             usb_test_tmp
+     0000E6A5  _EP6CS                             usb_test_tmp
+     0000E6A6  _EP8CS                             usb_test_tmp
+     0000E6A7  _EP2FIFOFLGS                       usb_test_tmp
+     0000E6A8  _EP4FIFOFLGS                       usb_test_tmp
+     0000E6A9  _EP6FIFOFLGS                       usb_test_tmp
+     0000E6AA  _EP8FIFOFLGS                       usb_test_tmp
+     0000E6AB  _EP2FIFOBCH                        usb_test_tmp
+     0000E6AC  _EP2FIFOBCL                        usb_test_tmp
+     0000E6AD  _EP4FIFOBCH                        usb_test_tmp
+     0000E6AE  _EP4FIFOBCL                        usb_test_tmp
+     0000E6AF  _EP6FIFOBCH                        usb_test_tmp
+     0000E6B0  _EP6FIFOBCL                        usb_test_tmp
+     0000E6B1  _EP8FIFOBCH                        usb_test_tmp
+     0000E6B2  _EP8FIFOBCL                        usb_test_tmp
+     0000E6B3  _SUDPTRH                           usb_test_tmp
+     0000E6B4  _SUDPTRL                           usb_test_tmp
+     0000E6B5  _SUDPTRCTL                         usb_test_tmp
+     0000E6B8  _SETUPDAT                          usb_test_tmp
+     0000E6B8  _bmRequestType                     usb_test_tmp
+     0000E6B9  _bRequest                          usb_test_tmp
+     0000E6BA  _wValueL                           usb_test_tmp
+     0000E6BB  _wValueH                           usb_test_tmp
+     0000E6BC  _wIndexL                           usb_test_tmp
+     0000E6BD  _wIndexH                           usb_test_tmp
+     0000E6BE  _wLengthL                          usb_test_tmp
+     0000E6BF  _wLengthH                          usb_test_tmp
+     0000E6C0  _GPIFWFSELECT                      usb_test_tmp
+     0000E6C1  _GPIFIDLECS                        usb_test_tmp
+     0000E6C2  _GPIFIDLECTL                       usb_test_tmp
+     0000E6C3  _GPIFCTLCFG                        usb_test_tmp
+     0000E6C4  _GPIFADRH                          usb_test_tmp
+     0000E6C5  _GPIFADRL                          usb_test_tmp
+     0000E6C6  _FLOWSTATE                         usb_test_tmp
+     0000E6C7  _FLOWLOGIC                         usb_test_tmp
+     0000E6C8  _FLOWEQ0CTL                        usb_test_tmp
+     0000E6C9  _FLOWEQ1CTL                        usb_test_tmp
+     0000E6CA  _FLOWHOLDOFF                       usb_test_tmp
+     0000E6CB  _FLOWSTB                           usb_test_tmp
+     0000E6CC  _FLOWSTBEDGE                       usb_test_tmp
+     0000E6CD  _FLOWSTBHPERIOD                    usb_test_tmp
+     0000E6CE  _GPIFTCB3                          usb_test_tmp
+     0000E6CF  _GPIFTCB2                          usb_test_tmp
+     0000E6D0  _GPIFTCB1                          usb_test_tmp
+     0000E6D1  _GPIFTCB0                          usb_test_tmp
+     0000E6D2  _EP2GPIFFLGSEL                     usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 77.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+.  .ABS.                            00000000    00000000 =           0. bytes (ABS,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     0000E6D3  _EP2GPIFPFSTOP                     usb_test_tmp
+     0000E6D4  _EP2GPIFTRIG                       usb_test_tmp
+     0000E6DA  _EP4GPIFFLGSEL                     usb_test_tmp
+     0000E6DB  _EP4GPIFPFSTOP                     usb_test_tmp
+     0000E6DC  _EP4GPIFTRIG                       usb_test_tmp
+     0000E6E2  _EP6GPIFFLGSEL                     usb_test_tmp
+     0000E6E3  _EP6GPIFPFSTOP                     usb_test_tmp
+     0000E6E4  _EP6GPIFTRIG                       usb_test_tmp
+     0000E6EA  _EP8GPIFFLGSEL                     usb_test_tmp
+     0000E6EB  _EP8GPIFPFSTOP                     usb_test_tmp
+     0000E6EC  _EP8GPIFTRIG                       usb_test_tmp
+     0000E6F0  _XGPIFSGLDATH                      usb_test_tmp
+     0000E6F1  _XGPIFSGLDATLX                     usb_test_tmp
+     0000E6F2  _XGPIFSGLDATLNOX                   usb_test_tmp
+     0000E6F3  _GPIFREADYCFG                      usb_test_tmp
+     0000E6F4  _GPIFREADYSTAT                     usb_test_tmp
+     0000E6F5  _GPIFABORT                         usb_test_tmp
+     0000E740  _EP0BUF                            usb_test_tmp
+     0000E780  _EP1OUTBUF                         usb_test_tmp
+     0000E7C0  _EP1INBUF                          usb_test_tmp
+     0000F000  _EP2FIFOBUF                        usb_test_tmp
+     0000F400  _EP4FIFOBUF                        usb_test_tmp
+     0000F800  _EP6FIFOBUF                        usb_test_tmp
+     0000FC00  _EP8FIFOBUF                        usb_test_tmp
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 78.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+BSEG_BYTES                          00000020    00000001 =           1. bytes (REL,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 79.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+REG_BANK_0                          00000000    00000008 =           8. bytes (REL,OVR)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 80.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+BIT_BANK                            00000021    00000001 =           1. bytes (REL,OVR)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 81.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+DSEG                                00000000    00000073 =         115. bytes (REL,CON)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     00000008  _eeprom_select_PARM_2              usb_test_tmp
+     00000009  _eeprom_select_PARM_3              usb_test_tmp
+     0000000A  _eeprom_read_PARM_2                usb_test_tmp
+     0000000C  _eeprom_read_PARM_3                usb_test_tmp
+     0000000D  _eeprom_write_PARM_2               usb_test_tmp
+     0000000F  _eeprom_write_PARM_3               usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 82.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+OSEG                                00000011    00000002 =           2. bytes (REL,OVR)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     00000011  _flash_read_PARM_2                 usb_test_tmp
+     00000011  _flash_write_PARM_2                usb_test_tmp
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 83.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+SSEG                                00000022    000000DE =         222. bytes (REL,OVR)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+     00000022  __start__stack                     usb_test_tmp
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 84.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+XSEG                                00003A00    0000006A =         106. bytes (REL,CON,XDATA)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+D:   00003A00  _pwdStatusSector                   usb_test_tmp
+D:   00003A02  _pwd                               usb_test_tmp
+D:   00003A42  _eeprom_addr                       usb_test_tmp
+D:   00003A44  _eeprom_write_bytes                usb_test_tmp
+D:   00003A46  _eeprom_write_checksum             usb_test_tmp
+D:   00003A47  _flash_enabled                     usb_test_tmp
+D:   00003A48  _flash_sector_size                 usb_test_tmp
+D:   00003A4A  _flash_sectors                     usb_test_tmp
+D:   00003A4E  _flash_ec                          usb_test_tmp
+D:   00003A4F  _mmc_last_cmd                      usb_test_tmp
+D:   00003A50  _mmc_response                      usb_test_tmp
+D:   00003A51  _mmc_version                       usb_test_tmp
+D:   00003A52  _mmc_buffer                        usb_test_tmp
+D:   00003A62  _mmc_ep0_wait                      usb_test_tmp
+D:   00003A63  _fpga_checksum                     usb_test_tmp
+D:   00003A64  _fpga_bytes                        usb_test_tmp
+D:   00003A68  _fpga_init_b                       usb_test_tmp
+D:   00003A69  _fpga_flash_result                 usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 85.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+XISEG                               00003A6A    0000000F =          15. bytes (REL,CON,XDATA)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+D:   00003A6A  _ep0_payload_remaining             usb_test_tmp
+D:   00003A6C  _ep0_payload_transfer              usb_test_tmp
+D:   00003A6D  _generatePwds                      usb_test_tmp
+D:   00003A6E  _pwdLen                            usb_test_tmp
+D:   00003A6F  _ep0_prev_setup_request            usb_test_tmp
+D:   00003A70  _ep0_vendor_cmd_setup              usb_test_tmp
+D:   00003A71  _ISOFRAME_COUNTER                  usb_test_tmp
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 86.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+HOME                                00000200    00000006 =           6. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000203  __sdcc_program_startup             usb_test_tmp
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 87.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+GSINIT0                             00000206    00000003 =           3. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000206  __sdcc_gsinit_startup              
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 88.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+GSINIT2                             00000209    0000000A =          10. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 89.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+GSINIT3                             00000213    00000022 =          34. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000213  __mcs51_genXINIT                   
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 90.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+GSINIT4                             00000235    0000002A =          42. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000235  __mcs51_genRAMCLEAR                
+C:   0000023B  __mcs51_genXRAMCLEAR               
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 91.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+GSFINAL                             0000025F    00000003 =           3. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 92.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CSEG                                00000262    000021AC =        8620. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00000262  _abscode_intvec                    usb_test_tmp
+C:   00000263  _wait                              usb_test_tmp
+C:   00000287  _uwait                             usb_test_tmp
+C:   000002AB  _MEM_COPY1_int                     usb_test_tmp
+C:   000002BA  _receiveLen                        usb_test_tmp
+C:   000002C7  _receiveData                       usb_test_tmp
+C:   000002FF  _sendPwd                           usb_test_tmp
+C:   00000334  _sendStatus                        usb_test_tmp
+C:   00000346  _receivePassword                   usb_test_tmp
+C:   00000349  _receiveEssid                      usb_test_tmp
+C:   00000351  _receiveTargetKey                  usb_test_tmp
+C:   00000359  _i2c_waitWrite                     usb_test_tmp
+C:   00000386  _i2c_waitRead                      usb_test_tmp
+C:   000003AF  _i2c_waitStart                     usb_test_tmp
+C:   000003C7  _i2c_waitStop                      usb_test_tmp
+C:   000003DF  _eeprom_select                     usb_test_tmp
+C:   00000443  _eeprom_read                       usb_test_tmp
+C:   0000054D  _eeprom_write                      usb_test_tmp
+C:   0000060B  _eeprom_read_ep0                   usb_test_tmp
+C:   0000063F  _eeprom_write_ep0                  usb_test_tmp
+C:   0000066C  _mmc_clocks                        usb_test_tmp
+C:   00000676  _flash_read_byte                   usb_test_tmp
+C:   000006B5  _flash_read                        usb_test_tmp
+C:   000006F4  _flash_write_byte                  usb_test_tmp
+C:   00000730  _flash_write                       usb_test_tmp
+C:   0000076F  _mmc_wait_busy                     usb_test_tmp
+C:   000007C0  _mmc_select                        usb_test_tmp
+C:   000007D3  _mmc_deselect                      usb_test_tmp
+C:   000007E5  _mmc_read_response                 usb_test_tmp
+C:   000007FF  _mmc_wait_start                    usb_test_tmp
+C:   00000829  _flash_read_init                   usb_test_tmp
+C:   000008F4  _flash_read_next                   usb_test_tmp
+C:   0000090C  _flash_read_finish                 usb_test_tmp
+C:   00000982  _flash_write_init                  usb_test_tmp
+C:   00000A4E  _flash_write_finish_sector         usb_test_tmp
+C:   00000AE9  _flash_write_finish                usb_test_tmp
+C:   00000AFB  _flash_write_next                  usb_test_tmp
+C:   00000B04  _flash_init                        usb_test_tmp
+C:   00000FB8  _mmc_read_ep0                      usb_test_tmp
+C:   0000107F  _mmc_send_ep0                      usb_test_tmp
+C:   00001224  _fpga_send_ep0                     usb_test_tmp
+C:   00001290  _fpga_send_bitstream_from_flash    usb_test_tmp
+C:   0000130C  _fpga_configure_from_flash         usb_test_tmp
+C:   00001496  _fpga_first_free_sector            usb_test_tmp
+C:   00001513  _fpga_configure_from_flash_init    usb_test_tmp
+C:   00001544  _abscode_identity                  usb_test_tmp
+C:   00001E7C  _SOF_ISR                           usb_test_tmp
+C:   00001EA1  _SUTOK_ISR                         usb_test_tmp
+C:   00001EC6  _SUSP_ISR                          usb_test_tmp
+C:   00001EEB  _URES_ISR                          usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 93.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CSEG                                00000262    000021AC =        8620. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   00001F10  _HSGRANT_ISR                       usb_test_tmp
+C:   00001F35  _EP0ACK_ISR                        usb_test_tmp
+C:   00002123  _EP1IN_ISR                         usb_test_tmp
+C:   00002148  _EP1OUT_ISR                        usb_test_tmp
+C:   0000216D  _EP2_ISR                           usb_test_tmp
+C:   00002192  _EP4_ISR                           usb_test_tmp
+C:   000021B7  _EP6_ISR                           usb_test_tmp
+C:   000021DC  _EP8_ISR                           usb_test_tmp
+C:   00002201  _init_USB                          usb_test_tmp
+C:   00002405  _main                              usb_test_tmp
+C:   0000240A  __sdcc_external_startup            _startup
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 94.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+CONST                               0000240E    0000008C =         140. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+C:   0000240E  _fpga_flash_boot_id                usb_test_tmp
+C:   00002416  _manufacturerString                usb_test_tmp
+C:   0000241B  _productString                     usb_test_tmp
+C:   0000242D  _configurationString               usb_test_tmp
+C:   00002435  _PadByte                           usb_test_tmp
+C:   00002436  _DeviceDescriptor                  usb_test_tmp
+C:   00002448  _DeviceQualifierDescriptor         usb_test_tmp
+C:   00002452  _HighSpeedConfigDescriptor         usb_test_tmp
+C:   00002472  _HighSpeedConfigDescriptor_PadBy   usb_test_tmp
+C:   00002474  _FullSpeedConfigDescriptor         usb_test_tmp
+C:   00002494  _FullSpeedConfigDescriptor_PadBy   usb_test_tmp
+C:   00002496  _EmptyStringDescriptor             usb_test_tmp
+ASxxxx Linker V03.00 + NoICE + sdld,  page 95.
+Hexadecimal  [32-Bits]
+
+Area                                    Addr        Size        Decimal Bytes (Attributes)
+--------------------------------        ----        ----        ------- ----- ------------
+XINIT                               0000249A    0000000F =          15. bytes (REL,CON,CODE)
+
+      Value  Global                              Global Defined In Module
+      -----  --------------------------------   ------------------------
+ASxxxx Linker V03.00 + NoICE + sdld,  page 96.
+
+Files Linked                              [ module(s) ]
+
+usb-test.rel                              [  ]
+
+
+Libraries Linked                          [ object file ]
+
+c:\Program Files (x86)\SDCC\bin\..\lib\small/mcs51.lib
+                                          [ crtclear.rel ]
+c:\Program Files (x86)\SDCC\bin\..\lib\small/mcs51.lib
+                                          [ crtxinit.rel ]
+c:\Program Files (x86)\SDCC\bin\..\lib\small/mcs51.lib
+                                          [ crtxclear.rel ]
+c:\Program Files (x86)\SDCC\bin\..\lib\small/mcs51.lib
+                                          [ crtstart.rel ]
+c:\Program Files (x86)\SDCC\bin\..\lib\small/libsdcc.lib
+                                          [ _startup.rel ]
+
+ASxxxx Linker V03.00 + NoICE + sdld,  page 97.
+
+User Base Address Definitions
+
+HOME = 0x0200
+XSEG = 0x3a00
+PSEG = 0x3a00
+ISEG = 0x0000
+BSEG = 0x0000
+
+
