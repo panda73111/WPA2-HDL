@@ -55,7 +55,7 @@
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="12"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="9"/>
     </file>
-    <file xil_pn:name="../../help_funcs.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../../universal-HDL/help_funcs.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="13"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="1"/>
     </file>
