@@ -13,6 +13,7 @@ tmp/
 db/
 incremental_db/
 work/
+impact_xdb/
 smartxplorer_setup
 xlnx_auto_0_xdb
 transcript
